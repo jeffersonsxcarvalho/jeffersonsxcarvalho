@@ -13,11 +13,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/jeffersonsxcarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonsxcarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonsxcarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsxcarvalho&layout=compact&langs_count=7&theme=dark"/>
-</div>-->
+</div>
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Jeff-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
