@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on my own website.
-- 🌱 I’m currently learning php, javascript, html, css and a little bit of node and react.
+- 🌱 Main focus now is javascript, html, css and a little bit of node and react.
 <!-- 👯 I’m looking to collaborate o
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
