@@ -8,7 +8,7 @@
 
 - 🌱 Main focus now is learning Java and software architecture.
 
-- 🤔 I have developed some websites using Js, Ts,html, css, mysql. 
+- 🤔 I have developed some websites using Js, Ts,html, css, mysql, nextjs, reactive but not so professional.
 
 <!-- 👯 I’m looking to collaborate o
 
