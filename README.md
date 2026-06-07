@@ -1,4 +1,4 @@
-### Fala aí, sou o Jefferson e estou aprendendo a programar 👋
+### Olá, sou o Jefferson evoluindo a cada dia um pouco. 👋
 
 <!--
 **jeffersonsxcarvalho/jeffersonsxcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
