@@ -1,4 +1,4 @@
-### Olá, sou o Jefferson evoluindo a cada dia um pouco. 👋
+### Hey, I'm Jefferson getting better each day a little bit and each day consistently.👋
 
 <!--
 **jeffersonsxcarvalho/jeffersonsxcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
