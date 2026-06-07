@@ -18,6 +18,17 @@
   <a href="https://github.com/jeffersonsxcarvalho">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonsxcarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsxcarvalho&layout=compact&langs_count=7&theme=dark"/>-->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 </div>
 
 <div style="display: inline_block"><br>  
