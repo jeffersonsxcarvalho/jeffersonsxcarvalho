@@ -4,8 +4,9 @@
 **jeffersonsxcarvalho/jeffersonsxcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on my own website.
-- 🌱 Main focus now is javascript, html, css and a little bit of node and react.
+- 🔭 I’m currently working on getting expertise in java.
+
+- 🌱 Main focus now is learning Java and software architecture.
 <!-- 👯 I’m looking to collaborate o
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
